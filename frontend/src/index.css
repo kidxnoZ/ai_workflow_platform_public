@@ -1,0 +1,2 @@
+.clickable-row { cursor: pointer; }
+.clickable-row:hover td { background: #f0f7ff !important; }
